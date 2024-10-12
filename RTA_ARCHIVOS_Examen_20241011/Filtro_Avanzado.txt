@@ -1,0 +1,10 @@
+mi IP Pública es:
+181.116.178.188
+Mi usuario es:
+vagrant
+
+El Hash de mi Usuario es:
+$y$j9T$f7V.J8o8/5JXqaI3xUKKQ0$oND2iaEkOI22AcHc9kfKwylXqBi.VixFO/cPGuxMD..
+
+La URL de mi Repositorio Remoto es:
+git@github.com:LucianaRadimak/UTNFRA_SO_1P2C_2024_-Radimak-.git
